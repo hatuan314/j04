@@ -1,4 +1,4 @@
-package hatuan314.com.vn;
+package hatuan314.com.vn.Buoi1;
 
 import java.util.Scanner;
 
